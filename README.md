@@ -1,4 +1,4 @@
-# **Noble-Knights-Sunucusu---Dyno-Bot-Otomatik-Moderasyon-zellikleri**
+# **Noble-Knights-Sunucusu---Dyno-Bot-Otomatik-Moderasyon-özellikleri**
 
 
 **Sunucumuzda, Dyno botunun aşağıdaki otomatik moderasyon özellikleri aktif edilmiştir**
